@@ -1,6 +1,5 @@
 - Nikki Barber
 - Vend by Lightspeed
-- Software Developer Intern 
 
 <!---
 nikkiabarber/nikkiabarber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
